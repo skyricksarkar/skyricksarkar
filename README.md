@@ -1,15 +1,27 @@
-# 👋 Hey there! I'm Rick Sarkar — aka SKY TECH - RICK
-
-### 🚀 Full Stack Developer | Backend Specialist | Startup Tech Lead
-
-I'm a passionate full stack developer from **Bagdogra, West Bengal, India**.  
-Currently pursuing **B.Tech in CSE (AI & ML)** at **Siliguri Institute of Technology**, I focus on building scalable systems and efficient backend architectures. I’m also actively freelancing, leading startup teams, and building impactful products.
+<!-- Typing Intro Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hey+there!+I'm+Rick+Sarkar+—+aka+SKY+TECH+-+RICK;Full+Stack+Developer+%7C+Backend+Specialist+%7C+Startup+Tech+Lead" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Languages & Frameworks:**
+I'm a passionate full stack developer from **Bagdogra, West Bengal, India**.  
+Currently pursuing **B.Tech in CSE (AI & ML)** at **Siliguri Institute of Technology**, I focus on building scalable systems and efficient backend architectures.  
+I’m also actively freelancing, leading startup teams, and building impactful products.
+
+---
+
+## 🧠 Motto
+> _"Consistency beats intensity."_  
+
+---
+
+<details>
+  <summary>🛠️ Tech Stack</summary>
+
+### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -22,7 +34,7 @@ Currently pursuing **B.Tech in CSE (AI & ML)** at **Siliguri Institute of Techno
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
-**Tools & Platforms:**
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -30,6 +42,8 @@ Currently pursuing **B.Tech in CSE (AI & ML)** at **Siliguri Institute of Techno
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+</details>
 
 ---
 
@@ -41,20 +55,40 @@ Currently pursuing **B.Tech in CSE (AI & ML)** at **Siliguri Institute of Techno
 
 ---
 
-## 💼 Projects & Startups
+## 📘 Currently Working On
 
-- ⚙️ **Ecom + Qcom System** – A hybrid B2B/B2C e-commerce platform with delivery logic, seller systems, and admin hierarchies.
-- 📁 **AI + File Handling Platform** – Building a product that handles intelligent file management and collaboration.
-- 🧠 **Startup Tech Lead** – Leading **SKY TECH - RICK**, managing tech teams and building scalable architecture for early-stage companies.
+- Building scalable product systems for early-stage startups
+- Innovating a multi-branch e-commerce logistics platform
+- Handling secure file collaboration using AI-based filters
+
+---
+
+## 📂 Featured Projects
+
+[![Ecom+Qcom](https://img.shields.io/badge/Ecom+Qcom-System-blue)](https://github.com/skytechrick/ecom-qcom)  
+> 🚀 B2B+B2C e-commerce system with order-flow, logistics, and admin hierarchies.
+
+[![AI File Platform](https://img.shields.io/badge/AI%20+%20File%20Manager-Intelligent-yellowgreen)](https://github.com/skytechrick/ai-file-platform)  
+> 📁 ML-backed file manager for smart uploads, previews, and real-time collaboration.
+
+*(Private repositories — available on request)*
+
+---
+
+## 💼 Startups & Roles
+
+- 🧠 **Tech Lead at SKY TECH - RICK**
+- ⚙️ Architecting core systems for Ecom and AI-File startups
+- 🤝 Mentoring developers and leading sprint-based releases
 
 ---
 
 ## 🤝 Let's Collaborate
 
-Open for:
+I’m open to:
 - 💼 Freelancing opportunities
 - 🧑‍💻 Technical consulting for startups
-- 🤝 Open-source collaboration
+- 🤝 Open-source and community-driven collaboration
 
 ---
 
@@ -65,13 +99,23 @@ Open for:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=skytechrick&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skytechrick&layout=compact&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com?user=skytechrick&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skytechrick&show_icons=true&theme=react" alt="Rick's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytechrick&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skytechrick&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🗺️ GitHub Visitors
+
+<p align="center">
+  <img src="https://shields.io/badge/Profile%20Views-Dynamic-blue?style=flat&logo=github" alt="Profile Views" />
+</p>
+
 
 ---
 
 > ⚡ _Building future tech with precision and passion._
-
