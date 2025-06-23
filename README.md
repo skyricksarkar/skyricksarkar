@@ -18,7 +18,7 @@ I’m also actively freelancing, leading startup teams, and building impactful p
 
 ---
 
-<details>
+<details open>
   <summary>🛠️ Tech Stack</summary>
 
 ### Languages & Frameworks
