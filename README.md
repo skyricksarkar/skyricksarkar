@@ -1,6 +1,6 @@
 <!-- Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hey+there!+I'm+Rick+Sarkar+—+aka+SKY+TECH+-+RICK;Full+Stack+Developer+%7C+Backend+Specialist+%7C+Startup+Tech+Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hey+there!+I'm+Rick+Sarkar+—+aka+SkyBrance;Full+Stack+Developer+%7C+Backend+Specialist+%7C+Startup+Tech+Lead" alt="Typing SVG" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ I’m also actively freelancing, leading startup teams, and building impactful p
 
 ## 💼 Startups & Roles
 
-- 🧠 **Tech Lead at SKY TECH - RICK**
+- 🧠 **Founder of SkyBrance**
 - ⚙️ Architecting core systems for Ecom and AI-File startups
 - 🤝 Mentoring developers and leading sprint-based releases
 
@@ -100,17 +100,17 @@ I’m open to:
 
 ## 🔗 Find Me Online
 
-🌐 Website: [www.skytechrick.com](https://www.skytechrick.com)  
-💼 LinkedIn: [linkedin.com/in/skytechrick](https://linkedin.com/in/skytechrick)
+🌐 Website: [www.skybrance.com](https://www.skybrance.com)  
+💼 LinkedIn: [linkedin.com/in/skyricksarkar](https://linkedin.com/in/skyricksarkar)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skytechrick&show_icons=true&theme=react" alt="Rick's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytechrick&layout=compact&theme=react" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skytechrick&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skyricksarkar&show_icons=true&theme=react" alt="Rick's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyricksarkar&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyricksarkar&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
