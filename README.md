@@ -100,8 +100,7 @@ I’m open to:
 
 ## 🔗 Find Me Online
 
-🌐 Website: [www.skybrance.com](https://www.skybrance.com)  
-💼 LinkedIn: [linkedin.com/in/skyricksarkar](https://linkedin.com/in/skyricksarkar)
+🌐 Website: [www.ricksarkar.tech](https://ricksarkar.tech)  
 
 ---
 
