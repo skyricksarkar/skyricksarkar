@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 I'm a passionate full stack developer from **Bagdogra, West Bengal, India**.  
-Currently pursuing **B.Tech in CSE (AI & ML)** at **Siliguri Institute of Technology**, I focus on building scalable systems and efficient backend architectures.  
+I focus on building scalable systems and efficient backend architectures.  
 I’m also actively freelancing, leading startup teams, and building impactful products.
 
 ---
