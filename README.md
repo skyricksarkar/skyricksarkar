@@ -1,6 +1,6 @@
 <!-- Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hey+there!+I'm+Rick+Sarkar+—+aka+SkyBrance;Full+Stack+Developer+%7C+Backend+Specialist+%7C+Startup+Tech+Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hey+there!+I'm+Rick+Sarkar+—+aka+Founder+of+SkyBrance+;Full+Stack+Developer+%7C+Backend+Specialist+%7C+Startup+Tech+Lead" alt="Typing SVG" />
 </p>
 
 ---
