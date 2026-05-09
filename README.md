@@ -1,4 +1,4 @@
-# 🚀 Rick Sarkar | Founder & CEO of Skybrance Tech Pvt Ltd
+# 🚀 Rick Sarkar | Founder & CEO of SkyBrance Tech Pvt Ltd
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hey+there!+I'm+Rick+Sarkar+%F0%9F%91%8B;Founder+%26+CEO+of+SkyBrance+Tech+Pvt+Ltd;Full+Stack+Developer+%7C+Backend+Architect+%7C+SaaS+Expert;AI+%7C+Cloud+%7C+DevOps+%7C+Microservices" alt="Typing SVG" />
