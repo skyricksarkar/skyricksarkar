@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rick%20Sarkar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20%E2%80%A2%20SkyBrance%20Tech%20Pvt%20Ltd&descSize=20&descAlignY=55&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=302b63&height=220&section=header&text=Rick%20Sarkar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20•%20SkyBrance%20Tech%20Pvt%20Ltd&descSize=20&descAlignY=55&descColor=c9d1d9" width="100%"/>
 
 <!-- Tagline -->
 <br/>
@@ -237,16 +237,7 @@ Not just code — I design the architecture, lead the teams, and own the product
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skyricksarkar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyricksarkar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=skyricksarkar&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyricksarkar&theme=github-compact&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyricksarkar&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
@@ -270,7 +261,7 @@ If you need a technical co-founder, an architecture review, or a full product te
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=302b63&height=100&section=footer" width="100%"/>
 
 **Build with precision. Scale with purpose. Lead with vision.**
 
