@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=302b63&height=220&section=header&text=Rick%20Sarkar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20•%20SkyBrance%20Tech%20Pvt%20Ltd&descSize=20&descAlignY=55&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=302b63&height=220&section=header&text=Rick%20Sarkar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20and%20CEO%20%E2%80%A2%20SkyBrance%20Tech&descSize=20&descAlignY=55&descColor=c9d1d9" width="100%"/>
 
 <!-- Tagline -->
 <br/>
