@@ -409,6 +409,38 @@ Open to:
 
 # 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skyricksarkar&show_icons=true&theme=tokyonight&hide_border=true&v=999" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyricksarkar&layout=compact&theme=tokyonight&hide_border=true&v=999" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=skyricksarkar&theme=tokyonight&hide_border=true&v=999" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyricksarkar&theme=tokyo-night&hide_border=true&v=999" alt="Activity Graph" />
+</div>
+
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skyricksarkar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyricksarkar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=skyricksarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyricksarkar&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+
+# 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skyricksarkar&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyricksarkar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
